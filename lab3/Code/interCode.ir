@@ -1,0 +1,3 @@
+FUNCTION main :
+DEC v1 9604
+RETURN #0
